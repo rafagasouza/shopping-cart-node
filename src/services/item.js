@@ -1,6 +1,6 @@
 //Caso de uso
 //criando um item
-async function createItem(name, quantity, price) {
+async function createItem(name, price, quantity) {
   return {
     name,
     quantity,
